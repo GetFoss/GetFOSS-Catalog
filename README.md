@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/GetFoss/GetFOSS-Catalog?style=social)](https://github.com/GetFoss/GetFOSS-Catalog)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgetfoss.org)](https://www.getfoss.org/)
 [![GitLab](https://img.shields.io/badge/Mirror-GitLab-orange?logo=gitlab)](https://gitlab.com/fossgroup/getfoss-catalog)
-[![Codeberg](https://img.shields.io/badge/Mirror-Codeberg-blue)](https://codeberg.org/GetFOSS-Catalog)
+[![Codeberg](https://img.shields.io/badge/Mirror-Codeberg-blue)](https://codeberg.org/GetFOSS/GetFOSS-Catalog)
 
 A curated list of the best Free and Open Source Software (FOSS). For each program, there is a link to the official website and a detailed review on [getfoss.org](https://www.getfoss.org/).
 
