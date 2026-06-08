@@ -24,7 +24,7 @@ If the software is truly FOSS, we will add it to the catalog and later publish a
 *(Coming soon)*
 
 ## BSD & illumos
-*(Coming soon)*
+* [**FreeBSD**](https://www.freebsd.org/) — The open-source Unix powerhouse. ([Review](https://www.getfoss.org/freebsd-the-open-source-unix-powerhouse))
 
 ## Debian & Ubuntu
 * [**Ubuntu Server**](https://ubuntu.com/server) — The open-source infrastructure powerhouse. ([Review](https://www.getfoss.org/ubuntu-server-the-open-source-infrastructure-powerhouse))
