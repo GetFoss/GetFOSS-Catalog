@@ -6,6 +6,25 @@
 [![GitLab](https://img.shields.io/badge/Mirror-GitLab-orange?logo=gitlab)](https://gitlab.com/fossgroup/getfoss-catalog)
 [![Codeberg](https://img.shields.io/badge/Mirror-Codeberg-blue)](https://codeberg.org/GetFOSS/GetFOSS-Catalog)
 
+## 📑 Table of Contents
+
+- [🤝 How to contribute](#-how-to-contribute)
+- [Audio & Video](#audio--video)
+- [BSD & illumos](#bsd--illumos)
+- [Debian & Ubuntu](#debian--ubuntu)
+- [Disk & System Utilities](#disk--system-utilities)
+- [DIY & Advanced](#diy--advanced)
+- [Engineering (CAD/CAM/EDA)](#engineering-cadcameda)
+- [Enterprise Linux](#enterprise-linux)
+- [Graphics & Design](#graphics--design)
+- [Independent & Heritage](#independent--heritage)
+- [Office & Productivity](#office--productivity)
+- [Other](#other)
+- [Password Managers](#password-managers)
+- [Security & Privacy](#security--privacy)
+
+---
+
 A curated list of the best Free and Open Source Software (FOSS). For each program, there is a link to the official website and a detailed review on [getfoss.org](https://www.getfoss.org/).
 
 ---
