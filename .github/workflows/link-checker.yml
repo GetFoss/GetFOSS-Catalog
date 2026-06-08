@@ -1,0 +1,28 @@
+name: Link Checker
+on:
+  schedule:
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.10.0
+        id: lychee
+        with:
+          fail: false
+          output: ./lychee-report.md
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: "🚨 Broken Links Found in Catalog"
+          content-filepath: ./lychee-report.md
+          labels: bug, automated
